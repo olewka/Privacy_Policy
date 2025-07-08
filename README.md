@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: August 11, 2024</p>
+<p>Last updated: July 08, 2025</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a>.</p>
 <h2>Interpretation and Definitions</h2>
@@ -15,13 +15,13 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> refers to Peg Solitaire: Classic Puzzle, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to Fit for fun, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Peg Solitaire: Classic Puzzle.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Fit for fun.</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to:  Belarus</p>
+<p><strong>Country</strong> refers to:  Russia</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -47,7 +47,18 @@
 <h4>Personal Data</h4>
 <p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
 <ul>
-<li>Usage Data</li>
+<li>
+<p>Email address</p>
+</li>
+<li>
+<p>First name and last name</p>
+</li>
+<li>
+<p>Phone number</p>
+</li>
+<li>
+<p>Usage Data</p>
+</li>
 </ul>
 <h4>Usage Data</h4>
 <p>Usage Data is collected automatically when using the Service.</p>
@@ -132,5 +143,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: evilgen21@gmail.com</li>
+<li>By email: support@fit4fun.su</li>
 </ul>
